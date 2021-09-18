@@ -1,0 +1,6 @@
+D:\SigmaInternProject\obj\Debug\netcoreapp3.1\SigmaInternProject.csproj.AssemblyReference.cache
+D:\SigmaInternProject\obj\Debug\netcoreapp3.1\SigmaInternProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SigmaInternProject\obj\Debug\netcoreapp3.1\SigmaInternProject.AssemblyInfoInputs.cache
+D:\SigmaInternProject\obj\Debug\netcoreapp3.1\SigmaInternProject.AssemblyInfo.cs
+D:\SigmaInternProject\obj\Debug\netcoreapp3.1\SigmaInternProject.csproj.CoreCompileInputs.cache
+D:\SigmaInternProject\obj\Debug\netcoreapp3.1\SigmaInternProject.MvcApplicationPartsAssemblyInfo.cache
